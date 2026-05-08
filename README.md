@@ -26,7 +26,7 @@ College Management System
 |---|---|
 | Account | College |
 | Contact | Student |
-| Opportunity | Student Admission |
-<img width="470" height="408" alt="Screenshot 2026-05-08 210150" src="https://github.com/user-attachments/assets/9793e557-711d-433d-b2c2-383b68e01b9e" />
+| Opportunity | Student Admission |<img width="1858" height="787" alt="Screenshot 2026-05-08 205950" src="https://github.com/user-attachments/assets/4a2630ed-9117-4978-bad7-eba7df7456dd" />
+
 
 
